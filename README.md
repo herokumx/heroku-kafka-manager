@@ -137,4 +137,4 @@ Most of the utils code has been adapted to work with [Apache Curator](http://cur
 License
 -------
 
-Apache Licensed. See accompanying LICENSE file.
+Heroku & Apache Licensed. See accompanying LICENSE file.
