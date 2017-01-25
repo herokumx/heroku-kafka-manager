@@ -1,0 +1,12 @@
+{
+  "name": "Heroku Kafka Manager",
+  "description": "An web admin tool for managing Heroku Kafka",
+  "repository": "https://github.com/herokumx/heroku-kafka-manager",
+  "logo": "https://s3.amazonaws.com/herokumximages/heroku.png",
+  "keywords": ["Kafka", "IOT", "Heroku", "Thunder", "Private Spaces"],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-scala"
+    }
+  ]
+}
