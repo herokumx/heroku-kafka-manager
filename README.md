@@ -24,43 +24,43 @@ It supports the following :
 
 Cluster Management
 
-![cluster](/img/cluster.png)
+![cluster](https://s3.amazonaws.com/herokumximages/kafkamgr/cluster.png)
 
 ***
 
 Topic List
 
-![topic](/img/topic-list.png)
+![topic](https://s3.amazonaws.com/herokumximages/kafkamgr/topic-list.png)
 
 ***
 
 Topic View
 
-![topic](/img/topic.png)
+![topic](https://s3.amazonaws.com/herokumximages/kafkamgr/topic.png)
 
 ***
 
 Consumer List View
 
-![consumer](/img/consumer-list.png)
+![consumer](https://s3.amazonaws.com/herokumximages/kafkamgr/consumer-list.png)
 
 ***
 
 Consumed Topic View
 
-![consumer](/img/consumed-topic.png)
+![consumer](https://s3.amazonaws.com/herokumximages/kafkamgr/consumed-topic.png)
 
 ***
 
 Broker List
 
-![broker](/img/broker-list.png)
+![broker](https://s3.amazonaws.com/herokumximages/kafkamgr/broker-list.png)
 
 ***
 
 Broker View
 
-![broker](/img/broker.png)
+![broker](https://s3.amazonaws.com/herokumximages/kafkamgr/broker.png)
 
 ***
 
